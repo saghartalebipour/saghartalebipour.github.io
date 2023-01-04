@@ -240,8 +240,8 @@ ul#nav {
 
     #about .profile-pic {
         position: relative;
-        width: 400px;
-        height: 300px;
+        width: auto;
+        height: auto;
         border-radius: 100%;
     }
 
